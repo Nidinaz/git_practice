@@ -1,0 +1,60 @@
+* {
+  font-family: Helvetica;
+}
+
+/*
+######### Top of the pabe
+wjy does list style not work
+*/
+
+.nav {
+  background-color: silver;
+  list-style: square;
+  margin: 0px;
+  padding: 0px
+}
+
+a {
+  color: black;
+}
+
+h1 {
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  background-image: url("../images/header_pattern.jpeg");
+  font-weight: bold;
+  margin: 0px;
+  padding: 0px;
+  }
+
+/*
+######## Content of the page
+*/
+
+.mediumspringgreencolor {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: mediumspringgreen;
+}
+
+.lightcoralcolor {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: lightcoral;
+}
+
+.skybluecolor {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: skyblue;
+}
+
+.prijs {
+  font-weight: bold;
+  color: blue;
+}
